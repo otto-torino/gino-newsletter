@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$class_gino_1_1_app_1_1_newsletter_1_1_newsletter_ctg.html" title="Classe tipo Gino.Model che rappresenta una categoria di iscritti alla newsletter. ..." alt="" coords="113,5,255,46"/>
+<area shape="rect" id="node3" href="$class_gino_1_1_app_1_1_newsletter_1_1_newsletter_item.html" title="Classe tipo Gino.Model che rappresenta un articolo della newsletter. " alt="" coords="113,70,255,111"/>
+<area shape="rect" id="node4" href="$class_gino_1_1_app_1_1_newsletter_1_1_newsletter_user.html" title="Classe tipo Gino.Model che rappresenta un iscritto alla newsletter. " alt="" coords="113,135,255,177"/>
+</map>

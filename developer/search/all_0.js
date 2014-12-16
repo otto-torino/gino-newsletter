@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['_24_5fdb',['$_db',['../class_gino_1_1_app_1_1_newsletter_1_1_newsletter_log.html#ad4e625ad7a127373eecf859dfb7d0c18',1,'Gino::App::Newsletter::NewsletterLog']]],
+  ['_24_5femails_5ffor_5fblock',['$_emails_for_block',['../class_gino_1_1_app_1_1_newsletter_1_1newsletter.html#aec9ad1c6366a46a6645a9e3c878efcc7',1,'Gino::App::Newsletter::newsletter']]],
+  ['_24_5ferrors',['$_errors',['../class_gino_1_1_app_1_1_newsletter_1_1_newsletter_log.html#acce6510ca0fbc30de18d0ce614e3a448',1,'Gino::App::Newsletter::NewsletterLog']]],
+  ['_24_5ffrom_5femail',['$_from_email',['../class_gino_1_1_app_1_1_newsletter_1_1newsletter.html#a8c11d82e28d8bd226212b8b13be49571',1,'Gino::App::Newsletter::newsletter']]],
+  ['_24_5ffrom_5fname',['$_from_name',['../class_gino_1_1_app_1_1_newsletter_1_1newsletter.html#ac905033ad27262102630560904657274',1,'Gino::App::Newsletter::newsletter']]],
+  ['_24_5fid',['$_id',['../class_gino_1_1_app_1_1_newsletter_1_1_newsletter_log.html#af129e0a4f1121cf355771b3caf769d27',1,'Gino::App::Newsletter::NewsletterLog']]],
+  ['_24_5flogdate',['$_logdate',['../class_gino_1_1_app_1_1_newsletter_1_1_newsletter_log.html#a1fa760491bcc77a5fa4041c33c0e0391',1,'Gino::App::Newsletter::NewsletterLog']]],
+  ['_24_5fnewsletter',['$_newsletter',['../class_gino_1_1_app_1_1_newsletter_1_1_newsletter_log.html#ac7487020c9498553e27f6f5b55f65e2f',1,'Gino::App::Newsletter::NewsletterLog']]],
+  ['_24_5foptions',['$_options',['../class_gino_1_1_app_1_1_newsletter_1_1newsletter.html#a585847bc35a40a41948f3bf4d2e0f37f',1,'Gino::App::Newsletter::newsletter']]],
+  ['_24_5foptionslabels',['$_optionsLabels',['../class_gino_1_1_app_1_1_newsletter_1_1newsletter.html#a1c9f6da58c1a447e1269ff35dec99520',1,'Gino::App::Newsletter::newsletter']]],
+  ['_24_5freturn_5fpath',['$_return_path',['../class_gino_1_1_app_1_1_newsletter_1_1newsletter.html#adc99b420e064bc687d534d537be3aeae',1,'Gino::App::Newsletter::newsletter']]],
+  ['_24_5ftbl_5flog',['$_tbl_log',['../class_gino_1_1_app_1_1_newsletter_1_1_newsletter_log.html#a7dce07bab7182717c87c405f520789bd',1,'Gino::App::Newsletter::NewsletterLog']]],
+  ['_24_5ftbl_5flog_5ferror',['$_tbl_log_error',['../class_gino_1_1_app_1_1_newsletter_1_1_newsletter_log.html#afc2f2993c67c799533bffc9e64616e02',1,'Gino::App::Newsletter::NewsletterLog']]],
+  ['_24_5fto_5femail',['$_to_email',['../class_gino_1_1_app_1_1_newsletter_1_1newsletter.html#a67a052fdbf4105aae652ea09a323704f',1,'Gino::App::Newsletter::newsletter']]],
+  ['_24_5fto_5fname',['$_to_name',['../class_gino_1_1_app_1_1_newsletter_1_1newsletter.html#a235ca9e9c4bc2ba513bb256fb0c5b6e7',1,'Gino::App::Newsletter::newsletter']]],
+  ['_24_5funregister_5fcode',['$_unregister_code',['../class_gino_1_1_app_1_1_newsletter_1_1newsletter.html#a0c3610af8da5e0e5e48eb61e8ee837d6',1,'Gino::App::Newsletter::newsletter']]]
+];
