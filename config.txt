@@ -1,0 +1,1 @@
+name:"newsletter",version:"0.1.0",tbl_name:"newsletter",instantiable:"0",description:"Gestore di newsletter",removable:"1"
